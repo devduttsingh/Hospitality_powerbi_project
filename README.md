@@ -17,3 +17,4 @@ Realization & Cancellation Trends: 70.1% realization rate; helps track guest beh
 Technology Stack
 🛠 Power BI – Data visualization & analytics 🗄 DAX Formulas – Advanced calculations for booking percentages & platform analysis 💾 SQL Database – Backend storage for hotel bookings data
 
+Dashboard image : https://github.com/devduttsingh/Hospitality_powerbi_project/blob/main/Screenshot%202025-05-21%20043348.png
